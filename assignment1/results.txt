@@ -1,0 +1,7 @@
+Model 1: Linear Regression
+Linear Regression MSE: 0.0008437429868695878
+Linear Regression Accuracy: 0.9999596963274461
+
+Model 2: Random Forest
+Random Forest MSE: 0.0009119435135600377
+Random Forest Accuracy: 0.9999529174314932
